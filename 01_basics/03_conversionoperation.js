@@ -26,3 +26,6 @@ let SomeNumber =33
 let StringNumber = String(SomeNumber)
 console.log(StringNumber);
 console.log(typeof(StringNumber));
+
+//*************operations *******************
+
