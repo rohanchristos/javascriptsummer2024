@@ -52,6 +52,8 @@ let str3 = str1 + str2
  console.log((3+2)*2%6);
 // don't write messy code alwayes use () for simplification and easy readability
 
+console.log(+true); // good approach but shouldn't use as its decrease the code readability
+console.log(+"");
 
 
 
