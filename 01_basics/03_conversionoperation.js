@@ -43,7 +43,15 @@ let negvalue = -value
 let str1 = "hello"
 let str2 = " rohan"
 let str3 = str1 + str2
-console.log(str3);
+// console.log(str3);
+// console.log("1"+2);
+// console.log(1+"2");
+ console.log(1+2+"3");
+// console.log(1+"2"+3);
+// console.log("1"+"2"+3);
+ console.log((3+2)*2%6);
+// don't write messy code alwayes use () for simplification and easy readability
+
 
 
 
