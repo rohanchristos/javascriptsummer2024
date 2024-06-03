@@ -55,7 +55,16 @@ let str3 = str1 + str2
 console.log(+true); // good approach but shouldn't use as its decrease the code readability
 console.log(+"");
 
+let num1,num2,num3
 
+num1 = num2 = num3 = 2 + 2
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
+
+//Assignment prefix and postfix js mdn docs read and solve examples
+//ecma type conversion
 
 
 
