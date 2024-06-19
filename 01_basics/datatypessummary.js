@@ -35,3 +35,10 @@ const myfunction = function(){
 console.log(typeof bigNumber);
 
 // go to ecma for what output will typeof gives in diffrent input datatypes
+
+
+
+
+
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+let myyoutubename = "rohanchristos/youube.com"
